@@ -1,0 +1,16 @@
+https://git-scm.com/download/win 
+https://github.com/
+
+git config --global user.email "xxx@y"
+git config --global user.name "Your Name"
+
+
+Painel de Controle\Contas de Usuário\Gerenciador de Credenciais
+
+
+$ git checkout -b v3
+Switched to a new branch 'v3'
+
+anton@DESKTOP-JT5S1PU MINGW64 ~/Downloads/teste/devops_aula05 (v3)
+$ git checkout v2
+Switched to branch 'v2'
