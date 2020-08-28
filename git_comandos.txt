@@ -14,3 +14,5 @@ Switched to a new branch 'v3'
 anton@DESKTOP-JT5S1PU MINGW64 ~/Downloads/teste/devops_aula05 (v3)
 $ git checkout v2
 Switched to branch 'v2'
+
+git branch v5
